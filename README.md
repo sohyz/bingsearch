@@ -1,1 +1,1 @@
-# bingsearch
+# azure-ai-foundry-agent
